@@ -1,0 +1,23 @@
+# SoccerNet data - DO NOT COMMIT
+data/
+
+# Model checkpoints / weights
+checkpoints/
+models/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
