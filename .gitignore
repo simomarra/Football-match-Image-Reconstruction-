@@ -1,0 +1,9 @@
+train/
+valid/
+test/
+SoccerNet_validation/
+SoccerNet_train/
+SoccerNet_test/
+yolo11n.pt
+SoccerNet_downloads.ipynb
+*.pt/
